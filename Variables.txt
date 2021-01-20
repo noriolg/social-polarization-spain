@@ -1,0 +1,66 @@
+Estudio
+AñoMes
+Año
+Mes
+N_Entrevista
+A.1	C.Autonoma
+A.2	Tamano.habitat
+A.3	Sexo.persona
+A.4	Edad.persona
+A.5	Provincia
+A.6	Municipio
+A.7	Area.metropolitana
+A.8	Capital
+A.9.1	Nacionalidad.persona
+A.9.2	Nacionalidad.persona.extranjeros
+A.9.3	Momento.adquisicion.nacionalidad
+A.9.4	Nivel.conocimiento.castellano
+A.9.5	Nivel.conocimiento.atribuido.por.entrevistador
+B.1.1.1	Sit.econ.espana.opcion.regular
+B.1.1.2	Sit.econ.espana
+B.1.2	Sit.econ.espana.retrospectiva.1ano
+B.1.3	Sit.econ.espana.prospectiva.1ano
+B.2.1.1	Sit.econ.personal.opcion.regular
+B.2.1.2	Sit.econ.personal
+B.2.2	Sit.econ.personal.retrospectiva
+B.2.3	Sit.econ.personal.prospectiva
+C.1.1	Sit.polit.espana
+C.1.2	Sit.polit.espana.retrospectiva.1ano
+C.1.3	Sit.polit.espana.prospectiva.1ano
+C.2.1	Preferencias.org.politica
+C.2.2	Sentimiento.nacionalista
+C.3.1	Escala.ubic.ideologica
+C.3.2.1	Participacion.elecciones.2008
+C.3.2.2	Participacion.elecciones.2011
+C.3.2.3	Participacion.elecciones.2015
+C.3.2.4	Participacion.elecciones.2016
+C.3.2.5	Participacion.elecciones.2019.abr
+C.3.2.6	Participacion.elecciones.2019.nov
+C.3.3	Valoracion.gestion.gob.central
+C.3.4	Valoracion.gestion.oposicion
+C.3.5	Fidelidad.voto
+G.1	Situacion.laboral
+G.2	Probabilidad.perder.empleo.12.meses	
+G.3	Pribabilidad.encontrar.empleo.12.meses
+G.4	Situacion.profesional
+G.5	Tipo.empresa
+G.6	Condicion.socioeconomica
+G.7	Estatus.socioeconomico
+G.8.1	Ocupacion.CNO.11
+G.8.2	Ocupacion.CNO.94
+G.8.3	Ocupacion.CNO.79
+G.8.4	Ocupacion.armonizada
+G.8.5	Ocupacion.tres.digitos.CNO
+G.8.6	Ocupacion.tres.digitos.ISCO
+G.8.7	Ocupacion.desde.sept.2019
+G.9.1	Rama.actividad.CNAE.09
+G.9.2	Rama.actividad.CNAE.94
+G.9.3	Rama.actividad.CNAE.74
+G.9.4	Rama.actividad.armonizada
+G.10.1	Ocupacion.padre.a.los.16
+G.10.2	Ocupacion.madre.a.los.16
+G.11.1	Rama.actividad.padre.a.los.16
+G.11.2	Rama.actividad.madre.a.los.16
+G.12	Ingresos.hogar
+G.13	Ingresos.personales
+G.14	Clase.social
